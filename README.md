@@ -5,9 +5,11 @@
 - Contact: **pravalhikak@gmail.com**  
 - Pronouns: **She/her**
 
-## 🌐 Socials:
+## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravalhika-kurapati/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](http://github.com/Pval-k)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:pravalhikak@gmail.com)  
+
 
 ---
 
