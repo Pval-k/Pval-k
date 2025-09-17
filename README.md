@@ -2,7 +2,6 @@
 - Motivated software engineer with **full-stack experience** in React.js, Node.js, Java, and Spring Boot  
 - Skilled in **building responsive web applications**, designing **REST APIs**, and applying **data structures and algorithms**  
 - Seeking **full-time Software Engineering opportunities** after graduation  
-- Contact: **pravalhikak@gmail.com**  
 - Pronouns: **She/her**
 
 ## 🌐 Links:
