@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-**Pravalhika Kurapati** (she/her) 👋  
-Motivated software engineer with a passion for building **full-stack applications** in React.js, Node.js, Java, and Spring Boot.  
+### Hi, I’m **Pravalhika Kurapati**! (she/her) 👋  
+I'm a motivated software engineer with a passion for building **full-stack applications** in React.js, Node.js, Java, and Spring Boot.  
 I love turning ideas into **responsive, user-friendly web apps** and tackling problems with **clean code and efficient algorithms**.  
 Currently seeking **full-time Software Engineering opportunities** after graduation.
 
